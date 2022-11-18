@@ -247,7 +247,7 @@ nav {
   100% {top: 0px;}
 }
 
-/* testimonials*/
+/* services*/
 .services-wrap {
   padding: 50px 0px;
 }
@@ -287,6 +287,7 @@ nav {
   position: relative;
   height: 300px;
   width: 270px;
+  color: #000;
 }
 
 .service-block {
