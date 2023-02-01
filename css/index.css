@@ -469,6 +469,7 @@ img {
 
 .invi-hero-right {
   width: 50%;
+  padding: 15px 50px;
 }
 
 .invi-hero-right p {
@@ -1119,6 +1120,7 @@ span {
 
   .invi-hero-right {
     width: 50%;
+    padding: 0px;
   }
 
   .invi-hero-right p {
